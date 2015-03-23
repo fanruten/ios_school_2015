@@ -16,4 +16,7 @@
 
 ### Полезные ссылки
 
-http://objc.io
+* http://objc.io — ежемесячный журнал о разработке
+* http://smnh.me/hit-testing-in-ios/ — как работает Hit-Test
+* https://developer.apple.com/library/ios/referencelibrary/GettingStarted/RoadMapiOS/index.html — Start Developing iOS Apps Today
+* https://itunes.apple.com/us/course/developing-ios-8-apps-swift/id961180099 — Developing iOS 8 Apps with Swift
